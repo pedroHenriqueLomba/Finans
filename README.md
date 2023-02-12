@@ -10,6 +10,10 @@ Para realizar a criação do projeto, foi utilizado as seguintes ferramentas e t
 
 -HTML;
 
--CSS.
+-CSS;
+
+-Bootstrap;
+
+-Font Awesome.
 
 Estarei a disposição para qualquer eventual dúvida.
